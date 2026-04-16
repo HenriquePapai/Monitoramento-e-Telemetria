@@ -1,0 +1,401 @@
+2026-04-16 19:58:03,281 | DEBUG | Latência simulada: 1.4
+2026-04-16 19:58:03,281 | INFO | Produtos listados
+2026-04-16 19:58:03,281 | INFO | Consumo GET /produtos CPU: 0.0, Memória: 61.8
+2026-04-16 19:58:03,281 | INFO | Latência /produtos -> 1.405
+2026-04-16 19:58:05,536 | DEBUG | Latência simulada: 0.2
+2026-04-16 19:58:05,536 | INFO | Produto Western Digital Black 4TB selecionado
+2026-04-16 19:58:05,538 | INFO | Consumo POST /produtos CPU: 3.0, Memória: 61.8
+2026-04-16 19:58:05,538 | INFO | Latência /produtos -> 0.203
+2026-04-16 19:58:07,036 | DEBUG | Latência simulada: 1.7
+2026-04-16 19:58:07,036 | INFO | Produtos listados
+2026-04-16 19:58:07,036 | INFO | Consumo GET /produtos CPU: 0.0, Memória: 61.8
+2026-04-16 19:58:07,036 | INFO | Latência /produtos -> 1.705
+2026-04-16 19:58:07,976 | DEBUG | Latência simulada: 0.4
+2026-04-16 19:58:07,976 | INFO | Produto Be Quiet! Silent Wings 4 selecionado
+2026-04-16 19:58:07,976 | INFO | Consumo POST /produtos CPU: 22.7, Memória: 61.9
+2026-04-16 19:58:07,976 | INFO | Latência /produtos -> 0.402
+2026-04-16 19:58:10,820 | DEBUG | Latência simulada: 0.8
+2026-04-16 19:58:10,821 | INFO | Produto Noctua NH-D15 selecionado
+2026-04-16 19:58:10,823 | INFO | Consumo POST /produtos CPU: 11.7, Memória: 61.9
+2026-04-16 19:58:10,823 | INFO | Latência /produtos -> 0.803
+2026-04-16 19:58:11,089 | DEBUG | Latência simulada: 2.0
+2026-04-16 19:58:11,089 | INFO | Produtos listados
+2026-04-16 19:58:11,089 | INFO | Consumo GET /produtos CPU: 7.7, Memória: 61.9
+2026-04-16 19:58:11,089 | INFO | Latência /produtos -> 2.004
+2026-04-16 19:58:13,159 | DEBUG | Latência simulada: 0.3
+2026-04-16 19:58:13,159 | INFO | Latência /produtos -> 0.301
+2026-04-16 19:58:13,159 | DEBUG | Produto: GPU
+2026-04-16 19:58:13,634 | DEBUG | Latência simulada: 0.5
+2026-04-16 19:58:13,634 | INFO | Produtos listados
+2026-04-16 19:58:13,635 | INFO | Consumo GET /produtos CPU: 10.5, Memória: 61.9
+2026-04-16 19:58:13,636 | INFO | Latência /produtos -> 0.504
+2026-04-16 19:58:15,753 | DEBUG | Latência simulada: 0.1
+2026-04-16 19:58:15,753 | INFO | Produtos listados
+2026-04-16 19:58:15,753 | INFO | Consumo GET /produtos CPU: 12.1, Memória: 61.9
+2026-04-16 19:58:15,753 | INFO | Latência /produtos -> 0.103
+2026-04-16 19:58:16,313 | DEBUG | Latência simulada: 1.1
+2026-04-16 19:58:16,313 | INFO | Produto Arctic MX-6 (Pasta Térmica) selecionado
+2026-04-16 19:58:16,313 | INFO | Consumo POST /produtos CPU: 15.8, Memória: 62.1
+2026-04-16 19:58:16,313 | INFO | Latência /produtos -> 1.103
+2026-04-16 19:58:18,367 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:58:18,367 | INFO | Produto MSI MAG B550 Tomahawk selecionado
+2026-04-16 19:58:18,367 | INFO | Consumo POST /produtos CPU: 11.1, Memória: 61.9
+2026-04-16 19:58:18,367 | INFO | Latência /produtos -> 0.001
+2026-04-16 19:58:19,004 | DEBUG | Latência simulada: 1.2
+2026-04-16 19:58:19,004 | INFO | Produtos listados
+2026-04-16 19:58:19,004 | INFO | Consumo GET /produtos CPU: 6.5, Memória: 61.9
+2026-04-16 19:58:19,004 | INFO | Latência /produtos -> 1.202
+2026-04-16 19:58:21,053 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:58:21,053 | INFO | Produtos listados
+2026-04-16 19:58:21,053 | INFO | Consumo GET /produtos CPU: 5.0, Memória: 61.9
+2026-04-16 19:58:21,053 | INFO | Latência /produtos -> 0.001
+2026-04-16 19:58:21,419 | DEBUG | Latência simulada: 1.0
+2026-04-16 19:58:21,419 | INFO | Produto Razer BlackWidow V4 Pro selecionado
+2026-04-16 19:58:21,421 | INFO | Consumo POST /produtos CPU: 5.3, Memória: 61.9
+2026-04-16 19:58:21,421 | INFO | Latência /produtos -> 1.002
+2026-04-16 19:58:24,082 | DEBUG | Latência simulada: 0.6
+2026-04-16 19:58:24,082 | INFO | Produto Corsair RM1000x 1000W selecionado
+2026-04-16 19:58:24,082 | INFO | Consumo POST /produtos CPU: 2.8, Memória: 61.8
+2026-04-16 19:58:24,082 | INFO | Latência /produtos -> 0.602
+2026-04-16 19:58:24,916 | DEBUG | Latência simulada: 1.8
+2026-04-16 19:58:24,916 | INFO | Produtos listados
+2026-04-16 19:58:24,918 | INFO | Consumo GET /produtos CPU: 2.4, Memória: 61.8
+2026-04-16 19:58:24,918 | INFO | Latência /produtos -> 1.805
+2026-04-16 19:58:26,339 | DEBUG | Latência simulada: 0.2
+2026-04-16 19:58:26,339 | INFO | Produto Seagate IronWolf 8TB HDD selecionado
+2026-04-16 19:58:26,341 | INFO | Consumo POST /produtos CPU: 8.0, Memória: 61.9
+2026-04-16 19:58:26,341 | INFO | Latência /produtos -> 0.202
+2026-04-16 19:58:28,392 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:58:28,392 | INFO | Produto DeepCool AK620 selecionado
+2026-04-16 19:58:28,396 | INFO | Consumo POST /produtos CPU: 4.9, Memória: 61.7
+2026-04-16 19:58:28,398 | INFO | Latência /produtos -> 0.003
+2026-04-16 19:58:28,969 | DEBUG | Latência simulada: 2.0
+2026-04-16 19:58:28,969 | INFO | Produtos listados
+2026-04-16 19:58:28,971 | INFO | Consumo GET /produtos CPU: 3.2, Memória: 61.7
+2026-04-16 19:58:28,971 | INFO | Latência /produtos -> 2.003
+2026-04-16 19:58:31,544 | DEBUG | Latência simulada: 1.1
+2026-04-16 19:58:31,544 | INFO | Produto Crucial P3 1TB M.2 selecionado
+2026-04-16 19:58:31,545 | INFO | Consumo POST /produtos CPU: 6.6, Memória: 61.7
+2026-04-16 19:58:31,545 | INFO | Latência /produtos -> 1.102
+2026-04-16 19:58:32,638 | DEBUG | Latência simulada: 1.6
+2026-04-16 19:58:32,638 | INFO | Produtos listados
+2026-04-16 19:58:32,640 | INFO | Consumo GET /produtos CPU: 8.7, Memória: 62.1
+2026-04-16 19:58:32,640 | INFO | Latência /produtos -> 1.605
+2026-04-16 19:58:34,775 | DEBUG | Latência simulada: 1.2
+2026-04-16 19:58:34,776 | INFO | Produto ASUS ROG Strix Z790-E selecionado
+2026-04-16 19:58:34,776 | INFO | Consumo POST /produtos CPU: 12.7, Memória: 62.2
+2026-04-16 19:58:34,776 | INFO | Latência /produtos -> 1.202
+2026-04-16 19:58:36,390 | DEBUG | Latência simulada: 1.7
+2026-04-16 19:58:36,390 | INFO | Produtos listados
+2026-04-16 19:58:36,390 | INFO | Consumo GET /produtos CPU: 12.2, Memória: 62.4
+2026-04-16 19:58:36,390 | INFO | Latência /produtos -> 1.703
+2026-04-16 19:58:36,828 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:58:36,828 | INFO | Produto AMD Radeon RX 7900 XTX selecionado
+2026-04-16 19:58:36,828 | INFO | Consumo POST /produtos CPU: 4.8, Memória: 62.3
+2026-04-16 19:58:36,828 | INFO | Latência /produtos -> 0.003
+2026-04-16 19:58:39,856 | DEBUG | Latência simulada: 1.4
+2026-04-16 19:58:39,857 | INFO | Produtos listados
+2026-04-16 19:58:39,857 | INFO | Consumo GET /produtos CPU: 6.1, Memória: 62.3
+2026-04-16 19:58:39,857 | INFO | Latência /produtos -> 1.402
+2026-04-16 19:58:39,990 | DEBUG | Latência simulada: 1.1
+2026-04-16 19:58:39,990 | INFO | Latência /produtos -> 1.103
+2026-04-16 19:58:39,990 | DEBUG | Produto: mouse
+2026-04-16 19:58:42,221 | DEBUG | Latência simulada: 0.3
+2026-04-16 19:58:42,221 | INFO | Produtos listados
+2026-04-16 19:58:42,223 | INFO | Consumo GET /produtos CPU: 6.1, Memória: 62.1
+2026-04-16 19:58:42,223 | INFO | Latência /produtos -> 0.304
+2026-04-16 19:58:42,950 | DEBUG | Latência simulada: 0.9
+2026-04-16 19:58:42,950 | INFO | Produto AMD Ryzen 7 7800X3D selecionado
+2026-04-16 19:58:42,973 | INFO | Consumo POST /produtos CPU: 4.9, Memória: 62.1
+2026-04-16 19:58:42,973 | INFO | Latência /produtos -> 0.924
+2026-04-16 19:58:45,849 | DEBUG | Latência simulada: 0.8
+2026-04-16 19:58:45,849 | INFO | Produto Crucial P3 1TB M.2 selecionado
+2026-04-16 19:58:45,851 | INFO | Consumo POST /produtos CPU: 4.5, Memória: 61.9
+2026-04-16 19:58:45,851 | INFO | Latência /produtos -> 0.803
+2026-04-16 19:58:46,087 | DEBUG | Latência simulada: 1.8
+2026-04-16 19:58:46,087 | INFO | Produtos listados
+2026-04-16 19:58:46,089 | INFO | Consumo GET /produtos CPU: 4.5, Memória: 61.8
+2026-04-16 19:58:46,089 | INFO | Latência /produtos -> 1.803
+2026-04-16 19:58:48,206 | DEBUG | Latência simulada: 0.3
+2026-04-16 19:58:48,206 | INFO | Produto Kingston FURY Beast 16GB DDR4 selecionado
+2026-04-16 19:58:48,206 | INFO | Consumo POST /produtos CPU: 5.9, Memória: 61.7
+2026-04-16 19:58:48,206 | INFO | Latência /produtos -> 0.302
+2026-04-16 19:58:49,345 | DEBUG | Latência simulada: 1.2
+2026-04-16 19:58:49,345 | INFO | Produtos listados
+2026-04-16 19:58:49,345 | INFO | Consumo GET /produtos CPU: 5.2, Memória: 61.7
+2026-04-16 19:58:49,345 | INFO | Latência /produtos -> 1.203
+2026-04-16 19:58:50,251 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:58:50,251 | INFO | Produto TP-Link Archer TX3000E Wi-Fi 6 selecionado
+2026-04-16 19:58:50,265 | INFO | Consumo POST /produtos CPU: 4.8, Memória: 61.7
+2026-04-16 19:58:50,265 | INFO | Latência /produtos -> 0.014
+2026-04-16 19:58:52,204 | DEBUG | Latência simulada: 0.8
+2026-04-16 19:58:52,204 | INFO | Produtos listados
+2026-04-16 19:58:52,204 | INFO | Consumo GET /produtos CPU: 5.5, Memória: 61.7
+2026-04-16 19:58:52,204 | INFO | Latência /produtos -> 0.804
+2026-04-16 19:58:53,015 | DEBUG | Latência simulada: 0.7
+2026-04-16 19:58:53,015 | INFO | Produto DeepCool AK620 selecionado
+2026-04-16 19:58:53,015 | INFO | Consumo POST /produtos CPU: 2.4, Memória: 61.7
+2026-04-16 19:58:53,015 | INFO | Latência /produtos -> 0.702
+2026-04-16 19:58:54,653 | DEBUG | Latência simulada: 0.4
+2026-04-16 19:58:54,659 | INFO | Produtos listados
+2026-04-16 19:58:54,663 | INFO | Consumo GET /produtos CPU: 7.0, Memória: 61.7
+2026-04-16 19:58:54,663 | INFO | Latência /produtos -> 0.417
+2026-04-16 19:58:55,271 | DEBUG | Latência simulada: 0.2
+2026-04-16 19:58:55,273 | INFO | Produto MSI MAG B550 Tomahawk selecionado
+2026-04-16 19:58:55,275 | INFO | Consumo POST /produtos CPU: 13.9, Memória: 61.9
+2026-04-16 19:58:55,275 | INFO | Latência /produtos -> 0.205
+2026-04-16 19:58:57,423 | DEBUG | Latência simulada: 0.7
+2026-04-16 19:58:57,425 | INFO | Produtos listados
+2026-04-16 19:58:57,427 | INFO | Consumo GET /produtos CPU: 11.2, Memória: 61.9
+2026-04-16 19:58:57,427 | INFO | Latência /produtos -> 0.706
+2026-04-16 19:58:58,426 | DEBUG | Latência simulada: 1.1
+2026-04-16 19:58:58,426 | INFO | Produto Corsair RM1000x 1000W selecionado
+2026-04-16 19:58:58,426 | INFO | Consumo POST /produtos CPU: 7.4, Memória: 61.9
+2026-04-16 19:58:58,426 | INFO | Latência /produtos -> 1.103
+2026-04-16 19:59:00,784 | DEBUG | Latência simulada: 1.3
+2026-04-16 19:59:00,784 | INFO | Produtos listados
+2026-04-16 19:59:00,786 | INFO | Consumo GET /produtos CPU: 4.3, Memória: 61.9
+2026-04-16 19:59:00,786 | INFO | Latência /produtos -> 1.303
+2026-04-16 19:59:00,994 | DEBUG | Latência simulada: 0.5
+2026-04-16 19:59:00,996 | INFO | Latência /produtos -> 0.502
+2026-04-16 19:59:00,997 | DEBUG | Produto: mouse
+2026-04-16 19:59:03,662 | DEBUG | Latência simulada: 0.6
+2026-04-16 19:59:03,662 | INFO | Produto Seagate IronWolf 8TB HDD selecionado
+2026-04-16 19:59:03,664 | INFO | Consumo POST /produtos CPU: 4.2, Memória: 61.7
+2026-04-16 19:59:03,664 | INFO | Latência /produtos -> 0.604
+2026-04-16 19:59:04,436 | DEBUG | Latência simulada: 1.6
+2026-04-16 19:59:04,437 | INFO | Produtos listados
+2026-04-16 19:59:04,440 | INFO | Consumo GET /produtos CPU: 5.1, Memória: 61.7
+2026-04-16 19:59:04,440 | INFO | Latência /produtos -> 1.606
+2026-04-16 19:59:06,208 | DEBUG | Latência simulada: 0.5
+2026-04-16 19:59:06,208 | INFO | Produto Corsair RM1000x 1000W selecionado
+2026-04-16 19:59:06,208 | INFO | Consumo POST /produtos CPU: 4.8, Memória: 61.7
+2026-04-16 19:59:06,208 | INFO | Latência /produtos -> 0.503
+2026-04-16 19:59:07,303 | DEBUG | Latência simulada: 0.8
+2026-04-16 19:59:07,303 | INFO | Produtos listados
+2026-04-16 19:59:07,305 | INFO | Consumo GET /produtos CPU: 4.8, Memória: 61.7
+2026-04-16 19:59:07,305 | INFO | Latência /produtos -> 0.804
+2026-04-16 19:59:09,484 | DEBUG | Latência simulada: 1.2
+2026-04-16 19:59:09,484 | INFO | Produto Razer BlackWidow V4 Pro selecionado
+2026-04-16 19:59:09,486 | INFO | Consumo POST /produtos CPU: 5.8, Memória: 61.7
+2026-04-16 19:59:09,490 | INFO | Latência /produtos -> 1.202
+2026-04-16 19:59:09,646 | DEBUG | Latência simulada: 0.3
+2026-04-16 19:59:09,646 | INFO | Produtos listados
+2026-04-16 19:59:09,646 | INFO | Consumo GET /produtos CPU: 5.4, Memória: 61.7
+2026-04-16 19:59:09,646 | INFO | Latência /produtos -> 0.303
+2026-04-16 19:59:12,545 | DEBUG | Latência simulada: 1.0
+2026-04-16 19:59:12,545 | INFO | Produto Corsair RM1000x 1000W selecionado
+2026-04-16 19:59:12,547 | INFO | Consumo POST /produtos CPU: 7.7, Memória: 61.9
+2026-04-16 19:59:12,547 | INFO | Latência /produtos -> 1.003
+2026-04-16 19:59:12,689 | DEBUG | Latência simulada: 1.0
+2026-04-16 19:59:12,691 | INFO | Produtos listados
+2026-04-16 19:59:12,695 | INFO | Consumo GET /produtos CPU: 8.4, Memória: 61.9
+2026-04-16 19:59:12,699 | INFO | Latência /produtos -> 1.011
+2026-04-16 19:59:15,585 | DEBUG | Latência simulada: 1.0
+2026-04-16 19:59:15,585 | INFO | Produto MSI MAG B550 Tomahawk selecionado
+2026-04-16 19:59:15,585 | INFO | Consumo POST /produtos CPU: 3.1, Memória: 61.8
+2026-04-16 19:59:15,585 | INFO | Latência /produtos -> 1.001
+2026-04-16 19:59:15,837 | DEBUG | Latência simulada: 1.1
+2026-04-16 19:59:15,837 | INFO | Produtos listados
+2026-04-16 19:59:15,839 | INFO | Consumo GET /produtos CPU: 3.5, Memória: 61.8
+2026-04-16 19:59:15,839 | INFO | Latência /produtos -> 1.104
+2026-04-16 19:59:18,719 | DEBUG | Latência simulada: 1.1
+2026-04-16 19:59:18,719 | INFO | Produto Lian Li PC-O11 Dynamic selecionado
+2026-04-16 19:59:18,721 | INFO | Consumo POST /produtos CPU: 12.7, Memória: 61.7
+2026-04-16 19:59:18,721 | INFO | Latência /produtos -> 1.103
+2026-04-16 19:59:19,389 | DEBUG | Latência simulada: 1.5
+2026-04-16 19:59:19,389 | INFO | Produtos listados
+2026-04-16 19:59:19,389 | INFO | Consumo GET /produtos CPU: 12.3, Memória: 61.7
+2026-04-16 19:59:19,389 | INFO | Latência /produtos -> 1.502
+2026-04-16 19:59:20,745 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:59:20,745 | INFO | Produto Western Digital Black 4TB selecionado
+2026-04-16 19:59:20,745 | INFO | Consumo POST /produtos CPU: 19.8, Memória: 61.8
+2026-04-16 19:59:20,745 | INFO | Latência /produtos -> 0.001
+2026-04-16 19:59:22,125 | DEBUG | Latência simulada: 0.7
+2026-04-16 19:59:22,125 | INFO | Produtos listados
+2026-04-16 19:59:22,125 | INFO | Consumo GET /produtos CPU: 8.7, Memória: 61.8
+2026-04-16 19:59:22,125 | INFO | Latência /produtos -> 0.704
+2026-04-16 19:59:23,888 | DEBUG | Latência simulada: 1.1
+2026-04-16 19:59:23,888 | INFO | Produto DeepCool AK620 selecionado
+2026-04-16 19:59:23,888 | INFO | Consumo POST /produtos CPU: 2.0, Memória: 61.8
+2026-04-16 19:59:23,888 | INFO | Latência /produtos -> 1.102
+2026-04-16 19:59:24,169 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:59:24,169 | INFO | Produtos listados
+2026-04-16 19:59:24,169 | INFO | Consumo GET /produtos CPU: 3.2, Memória: 61.8
+2026-04-16 19:59:24,169 | INFO | Latência /produtos -> 0.002
+2026-04-16 19:59:26,926 | DEBUG | Latência simulada: 1.0
+2026-04-16 19:59:26,926 | INFO | Produto Seagate IronWolf 8TB HDD selecionado
+2026-04-16 19:59:26,926 | INFO | Consumo POST /produtos CPU: 13.2, Memória: 61.9
+2026-04-16 19:59:26,928 | INFO | Latência /produtos -> 1.002
+2026-04-16 19:59:27,010 | DEBUG | Latência simulada: 0.8
+2026-04-16 19:59:27,010 | INFO | Produtos listados
+2026-04-16 19:59:27,013 | INFO | Consumo GET /produtos CPU: 11.3, Memória: 61.9
+2026-04-16 19:59:27,013 | INFO | Latência /produtos -> 0.805
+2026-04-16 19:59:30,537 | DEBUG | Latência simulada: 1.5
+2026-04-16 19:59:30,538 | INFO | Produto Cooler Master TD500 Mesh selecionado
+2026-04-16 19:59:30,538 | INFO | Consumo POST /produtos CPU: 6.6, Memória: 61.9
+2026-04-16 19:59:30,538 | INFO | Latência /produtos -> 1.503
+2026-04-16 19:59:30,658 | DEBUG | Latência simulada: 1.6
+2026-04-16 19:59:30,658 | INFO | Produtos listados
+2026-04-16 19:59:30,658 | INFO | Consumo GET /produtos CPU: 7.9, Memória: 61.9
+2026-04-16 19:59:30,658 | INFO | Latência /produtos -> 1.603
+2026-04-16 19:59:33,605 | DEBUG | Latência simulada: 1.0
+2026-04-16 19:59:33,605 | INFO | Produto AMD Radeon RX 7900 XTX selecionado
+2026-04-16 19:59:33,605 | INFO | Consumo POST /produtos CPU: 1.9, Memória: 61.8
+2026-04-16 19:59:33,605 | INFO | Latência /produtos -> 1.002
+2026-04-16 19:59:34,201 | DEBUG | Latência simulada: 1.5
+2026-04-16 19:59:34,201 | INFO | Produtos listados
+2026-04-16 19:59:34,201 | INFO | Consumo GET /produtos CPU: 2.8, Memória: 61.9
+2026-04-16 19:59:34,203 | INFO | Latência /produtos -> 1.502
+2026-04-16 19:59:37,059 | DEBUG | Latência simulada: 1.4
+2026-04-16 19:59:37,059 | INFO | Produto NZXT Kraken Elite 360 selecionado
+2026-04-16 19:59:37,059 | INFO | Consumo POST /produtos CPU: 3.3, Memória: 61.6
+2026-04-16 19:59:37,059 | INFO | Latência /produtos -> 1.402
+2026-04-16 19:59:37,148 | DEBUG | Latência simulada: 0.9
+2026-04-16 19:59:37,148 | INFO | Produtos listados
+2026-04-16 19:59:37,148 | INFO | Consumo GET /produtos CPU: 3.8, Memória: 61.6
+2026-04-16 19:59:37,148 | INFO | Latência /produtos -> 0.904
+2026-04-16 19:59:39,798 | DEBUG | Latência simulada: 0.6
+2026-04-16 19:59:39,798 | INFO | Produtos listados
+2026-04-16 19:59:39,798 | INFO | Consumo GET /produtos CPU: 4.0, Memória: 61.5
+2026-04-16 19:59:39,800 | INFO | Latência /produtos -> 0.603
+2026-04-16 19:59:40,610 | DEBUG | Latência simulada: 1.5
+2026-04-16 19:59:40,610 | INFO | Produto Corsair Vengeance RGB 32GB DDR5 selecionado
+2026-04-16 19:59:40,611 | INFO | Consumo POST /produtos CPU: 3.5, Memória: 61.5
+2026-04-16 19:59:40,611 | INFO | Latência /produtos -> 1.523
+2026-04-16 19:59:41,819 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:59:41,819 | INFO | Produtos listados
+2026-04-16 19:59:41,824 | INFO | Consumo GET /produtos CPU: 2.9, Memória: 61.5
+2026-04-16 19:59:41,824 | INFO | Latência /produtos -> 0.002
+2026-04-16 19:59:43,848 | DEBUG | Latência simulada: 1.2
+2026-04-16 19:59:43,850 | INFO | Produto Seagate IronWolf 8TB HDD selecionado
+2026-04-16 19:59:43,850 | INFO | Consumo POST /produtos CPU: 11.9, Memória: 61.5
+2026-04-16 19:59:43,850 | INFO | Latência /produtos -> 1.203
+2026-04-16 19:59:44,358 | DEBUG | Latência simulada: 0.5
+2026-04-16 19:59:44,358 | INFO | Produtos listados
+2026-04-16 19:59:44,358 | INFO | Consumo GET /produtos CPU: 13.1, Memória: 61.5
+2026-04-16 19:59:44,358 | INFO | Latência /produtos -> 0.502
+2026-04-16 19:59:46,399 | DEBUG | Latência simulada: 0.5
+2026-04-16 19:59:46,399 | INFO | Produto Corsair RM1000x 1000W selecionado
+2026-04-16 19:59:46,399 | INFO | Consumo POST /produtos CPU: 12.9, Memória: 61.8
+2026-04-16 19:59:46,405 | INFO | Latência /produtos -> 0.503
+2026-04-16 19:59:47,908 | DEBUG | Latência simulada: 1.5
+2026-04-16 19:59:47,908 | INFO | Produtos listados
+2026-04-16 19:59:47,908 | INFO | Consumo GET /produtos CPU: 9.7, Memória: 62.0
+2026-04-16 19:59:47,910 | INFO | Latência /produtos -> 1.505
+2026-04-16 19:59:48,438 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:59:48,443 | INFO | Produto Seagate IronWolf 8TB HDD selecionado
+2026-04-16 19:59:48,443 | INFO | Consumo POST /produtos CPU: 15.9, Memória: 61.6
+2026-04-16 19:59:48,443 | INFO | Latência /produtos -> 0.001
+2026-04-16 19:59:50,491 | DEBUG | Latência simulada: 0.0
+2026-04-16 19:59:50,491 | INFO | Produto MSI MAG B550 Tomahawk selecionado
+2026-04-16 19:59:50,491 | INFO | Consumo POST /produtos CPU: 10.7, Memória: 61.6
+2026-04-16 19:59:50,491 | INFO | Latência /produtos -> 0.003
+2026-04-16 19:59:51,859 | DEBUG | Latência simulada: 1.9
+2026-04-16 19:59:51,859 | INFO | Produtos listados
+2026-04-16 19:59:51,859 | INFO | Consumo GET /produtos CPU: 9.3, Memória: 61.6
+2026-04-16 19:59:51,859 | INFO | Latência /produtos -> 1.903
+2026-04-16 19:59:53,053 | DEBUG | Latência simulada: 0.5
+2026-04-16 19:59:53,053 | INFO | Produto EVGA SuperNOVA 750 G6 selecionado
+2026-04-16 19:59:53,057 | INFO | Consumo POST /produtos CPU: 6.4, Memória: 61.6
+2026-04-16 19:59:53,057 | INFO | Latência /produtos -> 0.505
+2026-04-16 19:59:54,204 | DEBUG | Latência simulada: 0.3
+2026-04-16 19:59:54,204 | INFO | Produtos listados
+2026-04-16 19:59:54,206 | INFO | Consumo GET /produtos CPU: 7.6, Memória: 61.6
+2026-04-16 19:59:54,206 | INFO | Latência /produtos -> 0.306
+2026-04-16 19:59:55,524 | DEBUG | Latência simulada: 0.4
+2026-04-16 19:59:55,524 | INFO | Produto Corsair Vengeance RGB 32GB DDR5 selecionado
+2026-04-16 19:59:55,526 | INFO | Consumo POST /produtos CPU: 16.9, Memória: 61.5
+2026-04-16 19:59:55,526 | INFO | Latência /produtos -> 0.401
+2026-04-16 19:59:56,559 | DEBUG | Latência simulada: 0.3
+2026-04-16 19:59:56,559 | INFO | Produtos listados
+2026-04-16 19:59:56,559 | INFO | Consumo GET /produtos CPU: 7.6, Memória: 61.4
+2026-04-16 19:59:56,559 | INFO | Latência /produtos -> 0.303
+2026-04-16 19:59:57,760 | DEBUG | Latência simulada: 0.2
+2026-04-16 19:59:57,760 | INFO | Produto Kingston FURY Beast 16GB DDR4 selecionado
+2026-04-16 19:59:57,760 | INFO | Consumo POST /produtos CPU: 15.8, Memória: 61.4
+2026-04-16 19:59:57,760 | INFO | Latência /produtos -> 0.202
+2026-04-16 19:59:58,793 | DEBUG | Latência simulada: 0.2
+2026-04-16 19:59:58,793 | INFO | Produtos listados
+2026-04-16 19:59:58,793 | INFO | Consumo GET /produtos CPU: 10.7, Memória: 61.4
+2026-04-16 19:59:58,802 | INFO | Latência /produtos -> 0.214
+2026-04-16 19:59:59,986 | DEBUG | Latência simulada: 0.2
+2026-04-16 19:59:59,986 | INFO | Produto Corsair RM1000x 1000W selecionado
+2026-04-16 19:59:59,986 | INFO | Consumo POST /produtos CPU: 5.9, Memória: 61.4
+2026-04-16 19:59:59,986 | INFO | Latência /produtos -> 0.202
+2026-04-16 20:00:01,574 | DEBUG | Latência simulada: 0.7
+2026-04-16 20:00:01,574 | INFO | Produtos listados
+2026-04-16 20:00:01,575 | INFO | Consumo GET /produtos CPU: 6.1, Memória: 61.4
+2026-04-16 20:00:01,577 | INFO | Latência /produtos -> 0.707
+2026-04-16 20:00:02,735 | DEBUG | Latência simulada: 0.7
+2026-04-16 20:00:02,736 | INFO | Produto Gigabyte B650 AORUS Elite selecionado
+2026-04-16 20:00:02,736 | INFO | Consumo POST /produtos CPU: 8.4, Memória: 61.4
+2026-04-16 20:00:02,740 | INFO | Latência /produtos -> 0.702
+2026-04-16 20:00:04,226 | DEBUG | Latência simulada: 0.6
+2026-04-16 20:00:04,226 | INFO | Produtos listados
+2026-04-16 20:00:04,228 | INFO | Consumo GET /produtos CPU: 10.5, Memória: 61.3
+2026-04-16 20:00:04,228 | INFO | Latência /produtos -> 0.604
+2026-04-16 20:00:04,807 | DEBUG | Latência simulada: 0.0
+2026-04-16 20:00:04,807 | INFO | Produto Corsair Vengeance RGB 32GB DDR5 selecionado
+2026-04-16 20:00:04,808 | INFO | Consumo POST /produtos CPU: 18.0, Memória: 61.3
+2026-04-16 20:00:04,808 | INFO | Latência /produtos -> 0.001
+2026-04-16 20:00:06,673 | DEBUG | Latência simulada: 0.4
+2026-04-16 20:00:06,673 | INFO | Produtos listados
+2026-04-16 20:00:06,675 | INFO | Consumo GET /produtos CPU: 7.1, Memória: 61.3
+2026-04-16 20:00:06,675 | INFO | Latência /produtos -> 0.404
+2026-04-16 20:00:07,351 | DEBUG | Latência simulada: 0.5
+2026-04-16 20:00:07,351 | INFO | Produto NVIDIA RTX 4090 selecionado
+2026-04-16 20:00:07,353 | INFO | Consumo POST /produtos CPU: 2.7, Memória: 61.3
+2026-04-16 20:00:07,353 | INFO | Latência /produtos -> 0.502
+2026-04-16 20:00:09,403 | DEBUG | Latência simulada: 0.7
+2026-04-16 20:00:09,403 | INFO | Produtos listados
+2026-04-16 20:00:09,405 | INFO | Consumo GET /produtos CPU: 3.7, Memória: 61.3
+2026-04-16 20:00:09,405 | INFO | Latência /produtos -> 0.705
+2026-04-16 20:00:09,494 | DEBUG | Latência simulada: 0.1
+2026-04-16 20:00:09,494 | INFO | Produto Samsung 990 Pro 2TB NVMe selecionado
+2026-04-16 20:00:09,494 | INFO | Consumo POST /produtos CPU: 0.0, Memória: 61.2
+2026-04-16 20:00:09,494 | INFO | Latência /produtos -> 0.101
+2026-04-16 20:00:11,552 | DEBUG | Latência simulada: 0.0
+2026-04-16 20:00:11,554 | INFO | Produto NZXT Kraken Elite 360 selecionado
+2026-04-16 20:00:11,554 | INFO | Consumo POST /produtos CPU: 5.0, Memória: 61.2
+2026-04-16 20:00:11,554 | INFO | Latência /produtos -> 0.002
+2026-04-16 20:00:12,457 | DEBUG | Latência simulada: 1.0
+2026-04-16 20:00:12,457 | INFO | Produtos listados
+2026-04-16 20:00:12,457 | INFO | Consumo GET /produtos CPU: 4.4, Memória: 61.2
+2026-04-16 20:00:12,457 | INFO | Latência /produtos -> 1.003
+2026-04-16 20:00:14,096 | DEBUG | Latência simulada: 0.5
+2026-04-16 20:00:14,096 | INFO | Produto AMD Radeon RX 7900 XTX selecionado
+2026-04-16 20:00:14,098 | INFO | Consumo POST /produtos CPU: 1.5, Memória: 61.1
+2026-04-16 20:00:14,098 | INFO | Latência /produtos -> 0.502
+2026-04-16 20:00:15,914 | DEBUG | Latência simulada: 1.4
+2026-04-16 20:00:15,914 | INFO | Produtos listados
+2026-04-16 20:00:15,914 | INFO | Consumo GET /produtos CPU: 2.9, Memória: 61.0
+2026-04-16 20:00:15,914 | INFO | Latência /produtos -> 1.403
+2026-04-16 20:00:17,425 | DEBUG | Latência simulada: 1.3
+2026-04-16 20:00:17,425 | INFO | Produto Samsung 990 Pro 2TB NVMe selecionado
+2026-04-16 20:00:17,427 | INFO | Consumo POST /produtos CPU: 2.9, Memória: 60.9
+2026-04-16 20:00:17,427 | INFO | Latência /produtos -> 1.303
+2026-04-16 20:00:19,868 | DEBUG | Latência simulada: 1.9
+2026-04-16 20:00:19,868 | INFO | Produtos listados
+2026-04-16 20:00:19,870 | INFO | Consumo GET /produtos CPU: 2.4, Memória: 60.9
+2026-04-16 20:00:19,870 | INFO | Latência /produtos -> 1.904
+2026-04-16 20:00:22,303 | DEBUG | Latência simulada: 0.4
+2026-04-16 20:00:22,303 | INFO | Produtos listados
+2026-04-16 20:00:22,305 | INFO | Consumo GET /produtos CPU: 1.7, Memória: 60.9
+2026-04-16 20:00:22,305 | INFO | Latência /produtos -> 0.403
+2026-04-16 20:00:26,241 | DEBUG | Latência simulada: 1.9
+2026-04-16 20:00:26,241 | INFO | Produtos listados
+2026-04-16 20:00:26,241 | INFO | Consumo GET /produtos CPU: 2.2, Memória: 61.0
+2026-04-16 20:00:26,243 | INFO | Latência /produtos -> 1.903
+2026-04-16 20:00:29,182 | DEBUG | Latência simulada: 0.9
+2026-04-16 20:00:29,182 | INFO | Produtos listados
+2026-04-16 20:00:29,183 | INFO | Consumo GET /produtos CPU: 3.2, Memória: 60.9
+2026-04-16 20:00:29,183 | INFO | Latência /produtos -> 0.903
+2026-04-16 20:00:32,234 | DEBUG | Latência simulada: 1.0
+2026-04-16 20:00:32,234 | INFO | Produtos listados
+2026-04-16 20:00:32,236 | INFO | Consumo GET /produtos CPU: 2.5, Memória: 60.9
+2026-04-16 20:00:32,237 | INFO | Latência /produtos -> 1.003
+2026-04-16 20:00:35,867 | DEBUG | Latência simulada: 1.6
+2026-04-16 20:00:35,867 | INFO | Produtos listados
+2026-04-16 20:00:35,869 | INFO | Consumo GET /produtos CPU: 2.6, Memória: 60.9
+2026-04-16 20:00:35,869 | INFO | Latência /produtos -> 1.603
