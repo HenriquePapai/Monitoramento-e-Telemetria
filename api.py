@@ -1,5 +1,3 @@
-# https://tinyurl.com/devsecops160426
-
 from fastapi import FastAPI, status, Response
 from logging import getLogger, StreamHandler, FileHandler, Formatter, DEBUG
 
